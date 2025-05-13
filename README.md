@@ -22,9 +22,9 @@ MovieVerse is a sleek, responsive web app for discovering trending movies, TV sh
 
     Backend & Auth: Appwrite
 
-    State Management: React Context API / Zustand (optional)
+    State Management: React Context API 
 
-    Deployment: Vercel / Netlify
+    Deployment: Vercel 
 
 📦 Installation
 
