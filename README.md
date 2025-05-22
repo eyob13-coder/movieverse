@@ -1,8 +1,7 @@
 🎬 MovieVerse
 
 A Modern Movie Discovery App Built with React, Tailwind, TMDB API & Appwrite
-(movieverse with screenshot)
-(screenshot/MovieApp.png)
+MovieVerse Screenshot ![my-movie](screenshot/MovieApp.png)
 
 MovieVerse is a sleek, responsive web app for discovering trending movies, TV shows, and actors. It fetches real-time data from TMDB API, features user authentication via Appwrite, and offers a seamless UI powered by React + Tailwind CSS.
 ✨ Features
